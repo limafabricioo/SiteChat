@@ -1,6 +1,6 @@
 #programa de Chat ao vivo
- #sempre control s para salvar antes de executar
-#1h25mins videoaula 4
+#sempre control s para salvar antes de executar
+
 
 import flet as ft
 
